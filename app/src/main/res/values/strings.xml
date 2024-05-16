@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LATIHAN_UTS_MEME</string>
+    <string-array name="menustore">
+
+        <item>
+            Edit video
+        </item>
+
+        <item>
+        Oplas Zepeto
+    </item>
+    </string-array>
+
+</resources>
